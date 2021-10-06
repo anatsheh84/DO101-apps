@@ -1,2 +1,2 @@
-console.log("Hello bupa_123!\n");
+console.log("Hello bupa123!\n");
 

@@ -1,4 +1,4 @@
 <?php
   print "I am running on host -> " . gethostname() ." (" . $_SERVER['SERVER_ADDR'] . ")" . "\n";
-  print "\n This is Dawiat Demo" . "\n";
+  print "\n This is Nutanix-Red Hat Demo" . "\n";
 ?>
